@@ -24,7 +24,8 @@ async function checkWeather(city){
         console.log("error");
         return;
     }
-
+gi[sfusfuf
+[FontFacepia[faifapfa'ufaufa'u']]]
     console.log("run");
     location_not_found.style.display = "none";
     weather_body.style.display = "flex";
